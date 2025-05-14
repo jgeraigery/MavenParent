@@ -33,7 +33,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <version.clean.maven.plugin>3.4.1</version.clean.maven.plugin>
         <version.compiler.maven.plugin>3.14.0</version.compiler.maven.plugin>
-        <version.gpg.maven.plugin>1.6</version.gpg.maven.plugin>
+        <version.gpg.maven.plugin>3.2.7</version.gpg.maven.plugin>
         <version.javadoc.maven.plugin>3.11.2</version.javadoc.maven.plugin>
         <version.nexus.staging.maven.plugin>1.6.8</version.nexus.staging.maven.plugin>
         <version.pmd.maven.plugin>3.26.0</version.pmd.maven.plugin>
